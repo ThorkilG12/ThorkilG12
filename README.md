@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThorkilG12
 - 👀 I’m interested in web development using Javascript, Apache, PHP and PostgreSQL
-- 🌱 I’m currently learning Bootstrap 5
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PHP OOP
+- 💞️ I’m looking to collaborate on Building something using the web
 - 📫 How to reach me by mail on thorkil@g12.dk
 
 <!---
