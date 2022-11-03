@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development using Javascript, Apache, PHP and PostgreSQL
 - 🌱 I’m currently learning PHP OOP
 - 💞️ I’m looking to collaborate on Building something using the web
-- 📫 How to reach me by mail on thorkil@g12.dk or look for thorkil.johansen in LinkedIn
+- 📫 How to reach me by mail on thorkil (at) g12.dk or look for thorkil.johansen on LinkedIn
 
 <!---
 ThorkilG12/ThorkilG12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
